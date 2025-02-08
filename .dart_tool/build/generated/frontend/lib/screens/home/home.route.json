@@ -1,0 +1,1 @@
+{"routes":[{"name":"HomeRoute","pathParams":[],"pageType":{"import":"package:frontend/screens/home/home.dart","name":"Home","isNullable":false,"isRecordType":false},"className":"Home","parameters":[],"hasWrappedRoute":false,"hasConstConstructor":true,"deferredLoading":null}],"inputPath":"lib/screens/home/home.dart","inputHash":0}

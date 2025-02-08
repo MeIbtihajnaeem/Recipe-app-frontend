@@ -1,0 +1,1 @@
+{"routes":[{"name":"AppRoute","pathParams":[],"pageType":{"import":"package:frontend/app/view/app.dart","name":"MyApp","isNullable":false,"isRecordType":false},"className":"MyApp","parameters":[],"hasWrappedRoute":false,"hasConstConstructor":true,"deferredLoading":null}],"inputPath":"lib/app/view/app.dart","inputHash":0}

@@ -1,0 +1,1 @@
+{"routes":[{"name":"RegisterRoute","pathParams":[],"pageType":{"import":"package:frontend/screens/login_registration/register.dart","name":"LoginPage","isNullable":false,"isRecordType":false},"className":"LoginPage","parameters":[],"hasWrappedRoute":false,"hasConstConstructor":true,"deferredLoading":null}],"inputPath":"lib/screens/login_registration/register.dart","inputHash":0}
